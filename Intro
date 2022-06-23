@@ -1,0 +1,5 @@
+Name = 'Iche COdes'
+Height = '170 cm'
+Country = 'Nigeria'
+
+console.log(Name, Height, Country)
